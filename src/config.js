@@ -12,7 +12,7 @@ const woopTesnetConfig = {
 
 // TODO fill parameters values
 const mainnetConfig = {
-  tokenVestingContractAddress: "0x43D5576CF364eAc467Da4644C123C81A34DA1034",
+  tokenVestingContractAddress: "0x955D8D3838d536770144E5574fBCE17ae9156C31",
   explorerRootURL: "https://explorer.wikiwoop.com/",
   tokenVestingContractAbi: require("./assets/abi/TokenVesting.json"),
   tokenVestingContractBytecode: require("./assets/bytecode/TokenVesting.json")
